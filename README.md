@@ -15,4 +15,4 @@ Görüntü Tanıma ile Video Kontrol, video dosyalarını analiz etmek ve belirl
 
 1. Repozitoriyi klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adi/goruntu-tanima-ile-video-kontrol.git
+   git clone https://github.com/asoron/goruntu-tanima-ile-video-kontrol.git
